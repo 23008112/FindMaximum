@@ -79,7 +79,7 @@ list1=[88, 67, 77, 93, 95, 11, 67, 89, 56, 89]
 ## Output:
 ### (i) using sort
 ![sort](https://github.com/23008112/FindMaximum/assets/138972470/31800ee4-e23e-43b4-a14c-72dcd6970442)
-### (ii) usint max()
+### (ii) using max()
 ![max](https://github.com/23008112/FindMaximum/assets/138972470/849ec173-fb5c-44f2-a43c-31d28dceb407)
 ### (iii) using builtin function
 ![function](https://github.com/23008112/FindMaximum/assets/138972470/0130a18d-8340-4d1a-94bd-e5df475ff847)
